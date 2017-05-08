@@ -25,7 +25,7 @@ SECRET_KEY = 'vhiakm^g+27a4i$5d8ykpd%t9do9i1)t3tbe#urh&7_08givel'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://ec2-35-165-156-2.us-west-2.compute.amazonaws.com:8000', 'http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['git ec2-35-165-156-2.us-west-2.compute.amazonaws.com', '127.0.0.1']
 
 
 # Application definition
